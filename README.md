@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Isabella :woman: :computer: 
 ## I'm a Systems engineer student, looking for new opportunities ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-417&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-417)
 
 ## About
 * Currently learning React and Nodejs making my path to become a Fullstack JavaScript developer.

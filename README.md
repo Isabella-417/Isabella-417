@@ -1,30 +1,33 @@
-# Hi there! 👋 I'm Isabella :woman: :computer: 
-## I'm a Systems engineer student, looking for new opportunities ✨
+<h1 align="center">Hi there 👋, I'm Isabella Serna </h1>
+<h3 align="center">Software developer - Colombia</h3>
+<h4 align="center">Systems engineer student looking for new opportunities  :computer:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-417)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isabella-417&show_icons=true&locale=en&layout=compact" alt="Isabella-417" /></p>
 
-## About
-* Currently learning React and Nodejs making my path to become a Fullstack JavaScript developer.
-* Looking to collaborate on **JavaScript based projects**
+##  About
+* 📝 Currently learning React and Nodejs making my path to become a Full Stack JavaScript developer.
+* 💻 Looking to collaborate on **JavaScript based projects**
 
-## 💻 Technologies I've worked with
+<h3 align="left">Languages and Tools: </h3>
+<p align="left"> 
+   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
+     <a href="https://www.debian.org/index.es.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/> </a> 
+     <a href="https://www.heroku.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a> 
+       <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
 
-<code><img height="60" src="./assets/img/css.png"></code>
-<code><img height="60" src="./assets/img/html.png"></code>
-<code><img height="50" src="./assets/img/javascript.png"></code>
-<code><img height="50" src="./assets/img/python.png"></code>
-<code><img height="50" src="./assets/img/java.png"></code>
-<code><img height="40" src="./assets/img/php.png"></code>
-<code><img height="50" src="./assets/img/git.png"></code>
-<code><img height="50" src="./assets/img/linux.png"></code>
-
-#### Database
-<code><img height="70" src="./assets/img/mongo.png"></code>
-<code><img height="50" src="./assets/img/sqlite.png"></code>
-
-
-#### Mobile
-<code><img height="50" src="./assets/img/flutter.png"></code>
 
 ## 📭 Get in touch
 * [LinkedIn](https://www.linkedin.com/in/isabella-serna-48499015a/)
@@ -34,17 +37,4 @@
 
 
 
-<!--
-**Isabella-417/Isabella-417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

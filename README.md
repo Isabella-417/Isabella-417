@@ -2,7 +2,7 @@
 <h3 align="center">Software developer - Colombia</h3>
 <h4 align="center">Systems engineer student looking for new opportunities  :computer:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isabella-417&show_icons=true&locale=en&layout=compact" alt="Isabella-417" /></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isabella-417&show_icons=true&locale=en&layout=compact" alt="Isabella-417" /></p>
 
 ##  About
 * 📝 Currently learning React and Nodejs making my path to become a Full Stack JavaScript developer.

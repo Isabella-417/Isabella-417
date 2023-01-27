@@ -1,15 +1,15 @@
-<h1 align="left">Hi <a target="_blank"> 👋, I'm Isabella</h1>
-<h3 align="center">FullStack Developer focus in JavaScript. ReactJS | React Native | NodeJS </h3>
+<h1 align="left">Hello 👩🏻‍💻, I'm Isabella</h1>
+<h3 align="center">💻 FullStack Developer focus in JavaScript. ReactJS | React Native | NodeJS </h3>
 
-- 🔭 I’m currently working on React Native Projects
-- 🌱 I’m currently learning Docker and Kubernetes
+<p> I'm a FullStack developer, at the moment I'm involved in Frontend Development using React and ReactJS. I have worked with different technologies including : Python (Django and Flask), PHP (Laravel), Dart (Flutter), Java (Springboot). I have experience working with agile methodologies like Scrum and Kanban. Always willing to learn new technologies and tools.</p>
+
 
 <div align="center">
-<h3><b>Connect With Me ✨</b></h3>
+  <h3><b>Connect With Me ✨</b></h3>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/isabella-serna-ramirez/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Isabella-417" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"    alt="Isabella-417" height="30" width="40" />
   </a>
 </p>
 

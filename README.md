@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👩🏻‍💻, I'm Isabella</h1>
 <h3 align="center">💻 FullStack Developer focus in JavaScript. ReactJS | React Native | NodeJS </h3>
 
-<p> I'm a FullStack developer, at the moment I'm involved in Frontend Development using React and ReactJS. I have worked with different technologies including : Python (Django and Flask), PHP (Laravel), Dart (Flutter), Java (Springboot). I have experience working with agile methodologies like Scrum and Kanban. Always willing to learn new technologies and tools.</p>
+<p> I'm a FullStack developer, at the moment I'm involved in Frontend Development using React Native and ReactJS. I have worked with different technologies including : Python (Django and Flask), PHP (Laravel), Dart (Flutter), Java (Springboot). I have experience working with agile methodologies like Scrum and Kanban. Always willing to learn new technologies and tools.</p>
 
 
 <div align="center">
